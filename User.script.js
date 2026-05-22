@@ -1,4 +1,3 @@
-```javascript
 // ==UserScript==
 // @name         Zing Music Player FIX
 // @namespace    http://tampermonkey.net/
